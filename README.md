@@ -1,6 +1,9 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 capacitor - tailwind - headlessui template
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+- [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction)
+- [HeadlessUI](https://headlessui.com/)
+- [Tailwindcss](https://tailwindcss.com/docs/)
+- [Capacitor](https://capacitorjs.com/)
 
 ## Setup
 
@@ -15,6 +18,12 @@ npm install
 
 # pnpm
 pnpm install
+```
+
+And to configure ESList:
+
+```bash
+npm init @eslint/config
 ```
 
 ## Development Server

@@ -11,8 +11,12 @@
   },
   "devDependencies": {
     "@capacitor/cli": "^4.7.0",
+    "@nuxtjs/eslint-module": "^4.0.2",
+    "eslint": "^8.38.0",
     "nuxt": "^3.2.3",
-    "nuxt-headlessui": "^1.1.1"
+    "nuxt-headlessui": "^1.1.1",
+    "prettier": "^2.8.7",
+    "prettier-plugin-tailwindcss": "^0.2.6"
   },
   "dependencies": {
     "@capacitor/android": "^4.7.0",
